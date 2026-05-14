@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+campii/corruption_pipeline.py
+campii/parameters.py
+campii/random_testing.py
+campii/setup.py
+campii_brats_segmentation.egg-info/PKG-INFO
+campii_brats_segmentation.egg-info/SOURCES.txt
+campii_brats_segmentation.egg-info/dependency_links.txt
+campii_brats_segmentation.egg-info/requires.txt
+campii_brats_segmentation.egg-info/top_level.txt
