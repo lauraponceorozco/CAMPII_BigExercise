@@ -1,0 +1,1322 @@
+[
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_001",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_002",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_003",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_004",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_005",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_006",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_007",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_008",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_009",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_010",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_011",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_012",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_013",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_014",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_015",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_016",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_017",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "flair",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_018",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_019",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "t1ce",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t2",
+      "t2": "flair",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_020",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1",
+      "t2": "t1ce",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_021",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "flair",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 0,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "t2",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 1,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t1"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 2,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "flair",
+      "t2": "t2",
+      "flair": "t1ce"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 3,
+    "channel_mapping": {
+      "t1": "t1",
+      "t1ce": "t1ce",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 4,
+    "channel_mapping": {
+      "t1": "t2",
+      "t1ce": "t1ce",
+      "t2": "t1",
+      "flair": "flair"
+    }
+  },
+  {
+    "patient_id": "BraTS20_Training_022",
+    "augmentation_index": 5,
+    "channel_mapping": {
+      "t1": "t1ce",
+      "t1ce": "t1",
+      "t2": "flair",
+      "flair": "t2"
+    }
+  }
+]
