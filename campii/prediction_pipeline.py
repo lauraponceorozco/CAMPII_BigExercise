@@ -34,7 +34,7 @@ def get_patient_ids(base_dir: Path):
 def infer_patient(input_files: dict[str, Path], output_file: Path, log_file: Path):
     segmenter = AdultGliomaPreTreatmentSegmenter(
         algorithm=AdultGliomaPreTreatmentAlgorithms.BraTS23_1,
-        force_cpu=True,
+        force_cpu=False,
     )
     segmenter.infer_single(
         t1n=str(input_files["t1"]),
