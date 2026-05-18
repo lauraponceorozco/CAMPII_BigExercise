@@ -1,5 +1,7 @@
 README.md
 pyproject.toml
+campii/VISUALIZATION_GUIDE.py
+campii/corruption_analysis.py
 campii/corruption_pipeline.py
 campii/parameters.py
 campii/random_testing.py
